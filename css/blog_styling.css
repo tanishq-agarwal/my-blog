@@ -1,0 +1,18 @@
+
+ #post {
+    top: 30px;
+    position: fixed;
+    color: #e0dcc2;
+    font-family: calibri;
+}
+.blog {
+    background-color: rgb(143, 95, 95);
+}
+.title {
+    text-align: center;
+}
+#author {
+    font-family: calibri;
+    font-size: 20px;
+    line-height: 10px;
+}
